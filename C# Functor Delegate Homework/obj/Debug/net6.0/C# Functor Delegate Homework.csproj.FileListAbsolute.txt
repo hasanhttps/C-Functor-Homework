@@ -1,0 +1,15 @@
+C:\Users\hasan\source\repos\C# Functor Delegate Homework\C# Functor Delegate Homework\obj\Debug\net6.0\C# Functor Delegate Homework.csproj.AssemblyReference.cache
+C:\Users\hasan\source\repos\C# Functor Delegate Homework\C# Functor Delegate Homework\obj\Debug\net6.0\C# Functor Delegate Homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hasan\source\repos\C# Functor Delegate Homework\C# Functor Delegate Homework\obj\Debug\net6.0\C# Functor Delegate Homework.AssemblyInfoInputs.cache
+C:\Users\hasan\source\repos\C# Functor Delegate Homework\C# Functor Delegate Homework\obj\Debug\net6.0\C# Functor Delegate Homework.AssemblyInfo.cs
+C:\Users\hasan\source\repos\C# Functor Delegate Homework\C# Functor Delegate Homework\obj\Debug\net6.0\C# Functor Delegate Homework.csproj.CoreCompileInputs.cache
+C:\Users\hasan\source\repos\C# Functor Delegate Homework\C# Functor Delegate Homework\bin\Debug\net6.0\C# Functor Delegate Homework.exe
+C:\Users\hasan\source\repos\C# Functor Delegate Homework\C# Functor Delegate Homework\bin\Debug\net6.0\C# Functor Delegate Homework.deps.json
+C:\Users\hasan\source\repos\C# Functor Delegate Homework\C# Functor Delegate Homework\bin\Debug\net6.0\C# Functor Delegate Homework.runtimeconfig.json
+C:\Users\hasan\source\repos\C# Functor Delegate Homework\C# Functor Delegate Homework\bin\Debug\net6.0\C# Functor Delegate Homework.dll
+C:\Users\hasan\source\repos\C# Functor Delegate Homework\C# Functor Delegate Homework\bin\Debug\net6.0\C# Functor Delegate Homework.pdb
+C:\Users\hasan\source\repos\C# Functor Delegate Homework\C# Functor Delegate Homework\obj\Debug\net6.0\C# Functor Delegate Homework.dll
+C:\Users\hasan\source\repos\C# Functor Delegate Homework\C# Functor Delegate Homework\obj\Debug\net6.0\refint\C# Functor Delegate Homework.dll
+C:\Users\hasan\source\repos\C# Functor Delegate Homework\C# Functor Delegate Homework\obj\Debug\net6.0\C# Functor Delegate Homework.pdb
+C:\Users\hasan\source\repos\C# Functor Delegate Homework\C# Functor Delegate Homework\obj\Debug\net6.0\C# Functor Delegate Homework.genruntimeconfig.cache
+C:\Users\hasan\source\repos\C# Functor Delegate Homework\C# Functor Delegate Homework\obj\Debug\net6.0\ref\C# Functor Delegate Homework.dll
